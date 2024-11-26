@@ -35,7 +35,7 @@ For other datasets, please refer to `./data/datasets.md` .
 
 ## 2. Pretrained model
 We provide weights of EfficientNet-B4 trained on GFADE from FF-raw.  
-Download [[raw](https://drive.google.com/file/d/12sLyqBp0VFwdpA-oZLdIOkOTkz_ZnIhV/view?usp=sharing)][[c23](https://drive.google.com/file/d/1X0-NYT8KPursLZZdxduRQju6E52hauV0/view?usp=sharing)] and place it in `./weights/` folder.
+Download [raw]and place it in `./weights/` folder.
 
 # Inference
 
