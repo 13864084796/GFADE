@@ -20,13 +20,10 @@ For example, download [Celeb-DF-v2](https://github.com/yuezunli/celeb-deepfakefo
 └── data
     └── Celeb-DF-v2
         ├── Celeb-real
-        │   └── videos
         │       └── *.mp4
         ├── Celeb-synthesis
-        │   └── videos
         │       └── *.mp4
         ├── Youtube-real
-        │   └── videos
         │       └── *.mp4
         └── List_of_testing_videos.txt
 ```
