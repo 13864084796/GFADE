@@ -1,0 +1,1 @@
+This folder holds the training output of the model.
