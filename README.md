@@ -39,7 +39,7 @@ Download and place it in `./weights/` folder.
 For example, run the inference on Celeb-DF-v2:
 ```bash
 CUDA_VISIBLE_DEVICES=* python3 src/inference/inference_dataset.py \
--w weights/arcface+mixstyle+focalloss/weights/98_0.9997_val.tar \
+-w weights/98_0.9997_val.tar \
 -d CDF
 ```
 The result will be displayed.
