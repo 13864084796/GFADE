@@ -1,4 +1,4 @@
-# Generalized Feature Adaptation and Discrimination Enhancement for Deepfake Detection
+
 
 
 # Ecomended Development Environment
